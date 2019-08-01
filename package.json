@@ -1,0 +1,14 @@
+{
+  "name": "instascrape",
+  "version": "1.0.0",
+  "description": "Scrape images from a users profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syn3rman",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}

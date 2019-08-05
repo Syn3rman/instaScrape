@@ -9,6 +9,8 @@
   "author": "Syn3rman",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.19.0"
+    "async": "^3.1.0",
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0"
   }
 }

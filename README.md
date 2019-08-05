@@ -13,5 +13,13 @@
 To run:
 
 ```
-git clone 
+git clone https://github.com/Syn3rman/instaScrape.git && cd instaScrape
+npm install
+```
+
+Start the flask server and run the driver script with 
+
+```
+flask run
+node run.js
 ```

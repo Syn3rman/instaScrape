@@ -1,4 +1,3 @@
-const ig = require('./app');
 const express = require('express');
 
 var app = express();

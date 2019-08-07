@@ -8,6 +8,9 @@
 
 <div align = "center">
 <img src="./assets/scrapingWithDownload.gif" width=600px/>
+<br>
+<br>
+<img src="./assets/instaScrape.png" width=600px/>
 </div>
 
 To run:

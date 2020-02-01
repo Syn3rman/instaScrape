@@ -14,7 +14,7 @@ let instagram = {
 	page: null,
 
 	initialize: async ()=>{
-		instagram.browser = await puppeteer.launch({headless: false});
+		instagram.browser = await puppeteer.launch({headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox']});
 		instagram.page = await instagram.browser.newPage();
 	},
 

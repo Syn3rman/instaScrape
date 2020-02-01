@@ -26,3 +26,15 @@ Start the flask server and run the driver script with
 flask run
 node run.js
 ```
+
+Or using docker: 
+```
+docker pull syn3rman/instascrape:latest
+```
+
+Run it using:
+```
+docker run --rm -it syn3rman/instascrape
+```
+
+Navigate to [localhost](http://localhost:8001/public?handle=9gag&limit=20) and change the get request parameters as required.

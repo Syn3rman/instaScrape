@@ -25,7 +25,6 @@ router.get('/',async (req,res)=>{
 					'msg': 'There seems to be a problem with the url',
 				});
 			}
-			// console.log(result);
 			await ig.close();
 		}
 });

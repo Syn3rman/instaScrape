@@ -9,7 +9,7 @@
   "author": "Syn3rman",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "puppeteer": "^1.19.0",
